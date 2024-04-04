@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import '../constants.dart';
 class ButtomButton extends StatelessWidget {
 
-ButtomButton({ required this.onTap ,required this.buttonTitle})
+ButtomButton({ required this.onTap ,required this.buttonTitle});
 
-final Function onTap;
+final Function() onTap;
 final String buttonTitle;
 
 @override

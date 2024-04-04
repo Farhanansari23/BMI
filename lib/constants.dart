@@ -5,6 +5,7 @@ const  double? kBottomContainerHeight = 80;
 const kActiveCardcolour =  Colors.white54;
 const kInactiveCardColor = Colors.white;
 const kBottomContainercolor = Color(0xffeb1555);
+const kSecondaryActiveColor = Colors.white;
 
 
 const kLabelTextStyle = TextStyle(
